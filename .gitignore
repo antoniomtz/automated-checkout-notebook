@@ -2,3 +2,4 @@ model
 models
 checkout
 .ipynb_checkpoints
+__pycache__
